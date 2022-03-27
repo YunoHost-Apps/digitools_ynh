@@ -6,7 +6,7 @@
         "en": "Simple and useful tools for the classroom.",
         "fr": "Des outils simples et utiles pour la classe."
     },
-    "version": "0.2.3~ynh1",
+    "version": "0.2.3~ynh2",
     "url": "https://ladigitale.dev/",
     "upstream": {
         "license": "GPL-3.0-only",
