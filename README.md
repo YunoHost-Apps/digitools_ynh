@@ -17,7 +17,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Simple and useful tools for the classroom.
 
-**Shipped version:** 0.2.3~ynh1
+**Shipped version:** 0.2.3~ynh2
 
 **Demo:** https://ladigitale.dev/digitools/
 

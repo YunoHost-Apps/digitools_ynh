@@ -13,7 +13,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 Des outils simples et utiles pour la classe.
 
-**Version incluse :** 0.2.3~ynh1
+**Version incluse :** 0.2.3~ynh2
 
 **Démo :** https://ladigitale.dev/digitools/
 
