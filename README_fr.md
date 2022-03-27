@@ -11,7 +11,7 @@ Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour
 
 ## Vue d'ensemble
 
-Digitools, des outils simples et utiles pour la classe.
+Des outils simples et utiles pour la classe.
 
 **Version incluse :** 0.2.3~ynh1
 
