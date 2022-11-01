@@ -17,15 +17,15 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 Simple and useful tools for the classroom.
 
-**Shipped version:** 0.2.3~ynh2
+**Shipped version:** 0.2.4~ynh1
 
 **Demo:** https://ladigitale.dev/digitools/
 ## Documentation and resources
 
 * Official app website: <https://ladigitale.dev/>
 * Official user documentation: <https://ladigitale.dev/blog/digitools-des-outils-simples-et-utiles-pour-la-classe>
-* Official admin documentation: <https://gitlab.com/ladigitale/digitools/-/blob/main/README.md>
-* Upstream app code repository: <https://gitlab.com/ladigitale/digitools>
+* Official admin documentation: <https://codeberg.org/ladigitale/digitools/src/branch/main/README.md>
+* Upstream app code repository: <https://codeberg.org/ladigitale/digitools>
 * YunoHost documentation for this app: <https://yunohost.org/app_digitools>
 * Report a bug: <https://github.com/YunoHost-Apps/digitools_ynh/issues>
 
