@@ -6,15 +6,15 @@
         "en": "Simple and useful tools for the classroom.",
         "fr": "Des outils simples et utiles pour la classe."
     },
-    "version": "0.2.3~ynh2",
+    "version": "0.2.4~ynh1",
     "url": "https://ladigitale.dev/",
     "upstream": {
         "license": "GPL-3.0-only",
         "website": "https://ladigitale.dev/",
         "demo": "https://ladigitale.dev/digitools/",
-        "admindoc": "https://gitlab.com/ladigitale/digitools/-/blob/main/README.md",
+        "admindoc": "https://codeberg.org/ladigitale/digitools/src/branch/main/README.md",
         "userdoc": "https://ladigitale.dev/blog/digitools-des-outils-simples-et-utiles-pour-la-classe",
-        "code": "https://gitlab.com/ladigitale/digitools"
+        "code": "https://codeberg.org/ladigitale/digitools"
     },
     "license": "GPL-3.0-only",
     "maintainer": {
