@@ -20,7 +20,7 @@
 		setup_private=1
 		setup_public=1
 		upgrade=1
-		upgrade=1	from_commit=ec6954243e9e763c543c4958c4c22b538937f133
+		upgrade=1	from_commit=8091fdc9c9283ce29e7fde5fcc4fc77b8738ce58
 		backup_restore=1
 		multi_instance=1
 		port_already_use=0
@@ -29,6 +29,6 @@
 Email=
 Notification=none
 ;;; Upgrade options
-	; commit=ec6954243e9e763c543c4958c4c22b538937f133
-		;name=Fixes.
+	; commit=8091fdc9c9283ce29e7fde5fcc4fc77b8738ce58
+		;name=Upgrade from 0.2.3.
 		;manifest_arg=domain=DOMAIN&path=PATH&language=fr&is_public=1&
