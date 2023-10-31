@@ -5,15 +5,16 @@ It shall NOT be edited by hand.
 
 # Digitools pour YunoHost
 
-[![Niveau d'intégration](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)  
+[![Niveau d’intégration](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+
 [![Installer Digitools avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
 *[Read this readme in english.](./README.md)*
 
-> *Ce package vous permet d'installer Digitools rapidement et simplement sur un serveur YunoHost.
-Si vous n'avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l'installer et en profiter.*
+> *Ce package vous permet d’installer Digitools rapidement et simplement sur un serveur YunoHost.
+Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) pour savoir comment l’installer et en profiter.*
 
-## Vue d'ensemble
+## Vue d’ensemble
 
 Des outils simples et utiles pour la classe.
 
@@ -22,11 +23,11 @@ Des outils simples et utiles pour la classe.
 **Démo :** https://ladigitale.dev/digitools/
 ## Documentations et ressources
 
-* Site officiel de l'app : <https://ladigitale.dev/>
+* Site officiel de l’app : <https://ladigitale.dev/>
 * Documentation officielle utilisateur : <https://ladigitale.dev/blog/digitools-des-outils-simples-et-utiles-pour-la-classe>
-* Documentation officielle de l'admin : <https://codeberg.org/ladigitale/digitools/src/branch/main/README.md>
-* Dépôt de code officiel de l'app : <https://codeberg.org/ladigitale/digitools>
-* Documentation YunoHost pour cette app : <https://yunohost.org/app_digitools>
+* Documentation officielle de l’admin : <https://codeberg.org/ladigitale/digitools/src/branch/main/README.md>
+* Dépôt de code officiel de l’app : <https://codeberg.org/ladigitale/digitools>
+* YunoHost Store: <https://apps.yunohost.org/app/digitools>
 * Signaler un bug : <https://github.com/YunoHost-Apps/digitools_ynh/issues>
 
 ## Informations pour les développeurs
@@ -41,4 +42,4 @@ ou
 sudo yunohost app upgrade digitools -u https://github.com/YunoHost-Apps/digitools_ynh/tree/testing --debug
 ```
 
-**Plus d'infos sur le packaging d'applications :** <https://yunohost.org/packaging_apps>
+**Plus d’infos sur le packaging d’applications :** <https://yunohost.org/packaging_apps>

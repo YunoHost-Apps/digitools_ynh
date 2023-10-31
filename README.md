@@ -5,7 +5,8 @@ It shall NOT be edited by hand.
 
 # Digitools for YunoHost
 
-[![Integration level](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Working status](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)  
+[![Integration level](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Working status](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Maintenance status](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+
 [![Install Digitools with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
 *[Lire ce readme en français.](./README_fr.md)*
@@ -26,7 +27,7 @@ Simple and useful tools for the classroom.
 * Official user documentation: <https://ladigitale.dev/blog/digitools-des-outils-simples-et-utiles-pour-la-classe>
 * Official admin documentation: <https://codeberg.org/ladigitale/digitools/src/branch/main/README.md>
 * Upstream app code repository: <https://codeberg.org/ladigitale/digitools>
-* YunoHost documentation for this app: <https://yunohost.org/app_digitools>
+* YunoHost Store: <https://apps.yunohost.org/app/digitools>
 * Report a bug: <https://github.com/YunoHost-Apps/digitools_ynh/issues>
 
 ## Developer info
