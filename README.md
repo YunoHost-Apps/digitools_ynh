@@ -16,7 +16,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Simple and useful tools for the classroom.
+Simple and useful tools for the classroom
 
 **Shipped version:** 0.3.7~ynh1
 

@@ -16,7 +16,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Des outils simples et utiles pour la classe.
+Simple and useful tools for the classroom
 
 **Version incluse :** 0.3.7~ynh1
 
