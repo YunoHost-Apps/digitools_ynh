@@ -21,6 +21,11 @@ Simple and useful tools for the classroom
 **Shipped version:** 0.3.7~ynh1
 
 **Demo:** https://ladigitale.dev/digitools/
+
+## Screenshots
+
+![Screenshot of Digitools](./doc/screenshots/screenshot.jpg)
+
 ## Documentation and resources
 
 * Official app website: <https://ladigitale.dev/>
