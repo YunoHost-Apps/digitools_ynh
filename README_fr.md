@@ -18,7 +18,7 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 Des outils simples et utiles pour la classe.
 
-**Version incluse :** 0.2.4~ynh1
+**Version incluse :** 0.3.7~ynh1
 
 **Démo :** https://ladigitale.dev/digitools/
 ## Documentations et ressources
