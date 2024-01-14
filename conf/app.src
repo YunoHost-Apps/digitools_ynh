@@ -1,7 +1,0 @@
-SOURCE_URL=https://github.com/YunoHost-Apps/digitools_ynh/releases/download/0.2.4/digitools-v0.2.4.zip
-SOURCE_SUM=efab6ba1cfed4216add53dcaae58ac0c56d27cbb5ae4072bea479cb616e5e2da
-SOURCE_SUM_PRG=sha256sum
-SOURCE_FORMAT=zip
-SOURCE_IN_SUBDIR=true
-#SOURCE_FILENAME=
-SOURCE_EXTRACT=true
