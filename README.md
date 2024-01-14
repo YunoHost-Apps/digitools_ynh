@@ -16,11 +16,16 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Simple and useful tools for the classroom.
+Simple and useful tools for the classroom
 
-**Shipped version:** 0.2.4~ynh1
+**Shipped version:** 0.3.7~ynh1
 
 **Demo:** https://ladigitale.dev/digitools/
+
+## Screenshots
+
+![Screenshot of Digitools](./doc/screenshots/screenshot.jpg)
+
 ## Documentation and resources
 
 * Official app website: <https://ladigitale.dev/>

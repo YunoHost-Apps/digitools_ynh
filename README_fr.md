@@ -16,11 +16,16 @@ Si vous n’avez pas YunoHost, regardez [ici](https://yunohost.org/#/install) po
 
 ## Vue d’ensemble
 
-Des outils simples et utiles pour la classe.
+Simple and useful tools for the classroom
 
-**Version incluse :** 0.2.4~ynh1
+**Version incluse :** 0.3.7~ynh1
 
 **Démo :** https://ladigitale.dev/digitools/
+
+## Captures d’écran
+
+![Capture d’écran de Digitools](./doc/screenshots/screenshot.jpg)
+
 ## Documentations et ressources
 
 * Site officiel de l’app : <https://ladigitale.dev/>
