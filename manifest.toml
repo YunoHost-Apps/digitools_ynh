@@ -2,8 +2,8 @@ packaging_format = 2
 
 id = "digitools"
 name = "Digitools"
-description.en = "Simple and useful tools for the classroom."
-description.fr = "Des outils simples et utiles pour la classe."
+description.en = "Simple and useful tools for the classroom"
+description.fr = "Des outils simples et utiles pour la classe"
 
 version = "0.3.7~ynh1"
 
