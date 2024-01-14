@@ -55,5 +55,5 @@ ram.runtime = "50M"
     [resources.permissions]
     main.url = "/"
 
-    [resources.database]
-    type = "php8.2-sqlite3"
+    [resources.apt]
+    packages = "php8.2-sqlite3"
