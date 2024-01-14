@@ -52,13 +52,8 @@ ram.runtime = "50M"
 
     [resources.install_dir]
 
-    [resources.data_dir]
-
     [resources.permissions]
     main.url = "/"
 
     [resources.database]
-    type = "mariadb-server, php8.2-sqlite3"
-
-    [resources.database]
-    type = "mysql"
+    type = "php8.2-sqlite3"
