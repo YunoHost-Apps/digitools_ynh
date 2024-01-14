@@ -1,0 +1,64 @@
+packaging_format = 2
+
+id = "digitools"
+name = "Digitools"
+description.en = "Simple and useful tools for the classroom."
+description.fr = "Des outils simples et utiles pour la classe."
+
+version = "0.2.4~ynh1"
+
+maintainers = ["Pierre-Amiel Giraud"]
+
+[upstream]
+license = "GPL-3.0-only"
+website = "https://ladigitale.dev/"
+demo = "https://ladigitale.dev/digitools/"
+admindoc = "https://codeberg.org/ladigitale/digitools/src/branch/main/README.md"
+userdoc = "https://ladigitale.dev/blog/digitools-des-outils-simples-et-utiles-pour-la-classe"
+code = "https://codeberg.org/ladigitale/digitools"
+cpe = "???" # FIXME: optional but recommended if relevant, this is meant to contain the Common Platform Enumeration, which is sort of a standard id for applications defined by the NIST. In particular, Yunohost may use this is in the future to easily track CVE (=security reports) related to apps. The CPE may be obtained by searching here: https://nvd.nist.gov/products/cpe/search. For example, for Nextcloud, the CPE is 'cpe:2.3:a:nextcloud:nextcloud' (no need to include the version number)
+fund = "???" # FIXME: optional but recommended (or remove if irrelevant / not applicable). This is meant to be an URL where people can financially support this app, especially when its development is based on volunteers and/or financed by its community. YunoHost may later advertise it in the webadmin.
+
+[integration]
+yunohost = ">= 4.3.0"
+architectures = "all" # FIXME: can be replaced by a list of supported archs using the dpkg --print-architecture nomenclature (amd64/i386/armhf/arm64), for example: ["amd64", "i386"]
+multi_instance = true
+ldap = "?" # FIXME: replace with true, false, or "not_relevant". Not to confuse with the "sso" key : the "ldap" key corresponds to wether or not a user *can* login on the app using its YunoHost credentials.
+sso = "?" # FIXME: replace with true, false, or "not_relevant". Not to confuse with the "ldap" key : the "sso" key corresponds to wether or not a user is *automatically logged-in* on the app when logged-in on the YunoHost portal.
+disk = "50M" # FIXME: replace with an **estimate** minimum disk requirement. e.g. 20M, 400M, 1G, ...
+ram.build = "50M" # FIXME: replace with an **estimate** minimum ram requirement. e.g. 50M, 400M, 1G, ...
+ram.runtime = "50M" # FIXME: replace with an **estimate** minimum ram requirement. e.g. 50M, 400M, 1G, ...
+
+[install]
+    [install.domain]
+    # this is a generic question - ask strings are automatically handled by Yunohost's core
+    type = "domain"
+
+    [install.path]
+    # this is a generic question - ask strings are automatically handled by Yunohost's core
+    type = "path"
+    default = "/digitools"
+
+    [install.init_main_permission]
+    help.en = "If not public, you won’t be able to share cards (for instance) with your public, unless they are users of your Yunohost instance."
+    help.fr = "Si l’application n’est pas publique, vous ne pourrez pas partager les cartes (par exemple) avec vos élèves, sauf s’ils sont tous utilisateurs de votre instance Yunohost."
+    type = "group"
+    default = "visitors"
+
+[resources]
+        [resources.sources.main]
+        url = "https://github.com/YunoHost-Apps/digitools_ynh/releases/download/0.2.4/digitools-v0.2.4.zip"
+        sha256 = "efab6ba1cfed4216add53dcaae58ac0c56d27cbb5ae4072bea479cb616e5e2da"
+
+
+    [resources.system_user]
+
+    [resources.install_dir]
+
+    [resources.data_dir]
+
+    [resources.permissions]
+    main.url = "/"
+
+    [resources.database]
+    type = "mysql"
