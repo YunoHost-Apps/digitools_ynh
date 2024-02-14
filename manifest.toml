@@ -46,7 +46,7 @@ ram.runtime = "50M"
         [resources.sources.main]
         url = "https://codeberg.org/ladigitale/digitools/releases/download/0.3.7/digitools-v0.3.7.zip"
         sha256 = "75f56c0987795d5f89bc10033a461a30166aac42f21a0169bbe33d2c304702eb"
-
+        autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
 
