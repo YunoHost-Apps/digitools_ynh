@@ -9,7 +9,7 @@ It shall NOT be edited by hand.
 
 [![Install Digitools with YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
-*[Read this README is other languages.](./ALL_README.md)*
+*[Read this README in other languages.](./ALL_README.md)*
 
 > *This package allows you to install Digitools quickly and simply on a YunoHost server.*  
 > *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Simple and useful tools for the classroom
 
-**Shipped version:** 0.3.7~ynh1
+**Shipped version:** 0.3.8~ynh1
 
 **Demo:** <https://ladigitale.dev/digitools/>
 
