@@ -18,7 +18,7 @@ It shall NOT be edited by hand.
 
 Simple and useful tools for the classroom
 
-**Shipped version:** 0.3.8~ynh1
+**Shipped version:** 0.4.0~ynh1
 
 **Demo:** <https://ladigitale.dev/digitools/>
 
