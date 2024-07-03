@@ -5,7 +5,7 @@ No se debe editar a mano.
 
 # Digitools para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Nivel de integración](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
 
 [![Instalar Digitools con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
@@ -18,7 +18,7 @@ No se debe editar a mano.
 
 Simple and useful tools for the classroom
 
-**Versión actual:** 0.4.0~ynh1
+**Versión actual:** 0.5.0~ynh1
 
 **Demo:** <https://ladigitale.dev/digitools/>
 

@@ -5,7 +5,7 @@ EZ editatu eskuz.
 
 # Digitools YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Integrazio maila](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
 
 [![Instalatu Digitools YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 Simple and useful tools for the classroom
 
-**Paketatutako bertsioa:** 0.4.0~ynh1
+**Paketatutako bertsioa:** 0.5.0~ynh1
 
 **Demoa:** <https://ladigitale.dev/digitools/>
 

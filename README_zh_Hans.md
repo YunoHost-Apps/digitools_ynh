@@ -5,7 +5,7 @@
 
 # YunoHost 上的 Digitools
 
-[![集成程度](https://dash.yunohost.org/integration/digitools.svg)](https://dash.yunohost.org/appci/app/digitools) ![工作状态](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![集成程度](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![工作状态](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![维护状态](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
 
 [![使用 YunoHost 安装 Digitools](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
@@ -18,7 +18,7 @@
 
 Simple and useful tools for the classroom
 
-**分发版本：** 0.4.0~ynh1
+**分发版本：** 0.5.0~ynh1
 
 **演示：** <https://ladigitale.dev/digitools/>
 
