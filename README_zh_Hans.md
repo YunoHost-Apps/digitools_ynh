@@ -18,7 +18,7 @@
 
 Simple and useful tools for the classroom
 
-**分发版本：** 0.5.0~ynh2
+**分发版本：** 0.5.0~ynh3
 
 **演示：** <https://ladigitale.dev/digitools/>
 

@@ -18,7 +18,7 @@ Ini TIDAK boleh diedit dengan tangan.
 
 Simple and useful tools for the classroom
 
-**Versi terkirim:** 0.5.0~ynh2
+**Versi terkirim:** 0.5.0~ynh3
 
 **Demo:** <https://ladigitale.dev/digitools/>
 
