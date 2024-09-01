@@ -5,7 +5,7 @@ name = "Digitools"
 description.en = "Simple and useful tools for the classroom"
 description.fr = "Des outils simples et utiles pour la classe"
 
-version = "0.5.0~ynh2"
+version = "0.5.0~ynh3"
 
 maintainers = ["Pierre-Amiel Giraud"]
 
