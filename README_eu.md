@@ -18,7 +18,7 @@ EZ editatu eskuz.
 
 Simple and useful tools for the classroom
 
-**Paketatutako bertsioa:** 0.5.0~ynh2
+**Paketatutako bertsioa:** 0.5.0~ynh3
 
 **Demoa:** <https://ladigitale.dev/digitools/>
 
