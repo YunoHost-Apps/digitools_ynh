@@ -5,7 +5,9 @@ Il NE doit PAS être modifié à la main.
 
 # Digitools pour YunoHost
 
-[![Niveau d’intégration](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Statut du fonctionnement](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Statut de maintenance](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Niveau d’intégration](https://apps.yunohost.org/badge/integration/digitools)](https://ci-apps.yunohost.org/ci/apps/digitools/)
+![Statut du fonctionnement](https://apps.yunohost.org/badge/state/digitools)
+![Statut de maintenance](https://apps.yunohost.org/badge/maintained/digitools)
 
 [![Installer Digitools avec YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 

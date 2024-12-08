@@ -5,7 +5,9 @@ Ini TIDAK boleh diedit dengan tangan.
 
 # Digitools untuk YunoHost
 
-[![Tingkat integrasi](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Status kerja](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Status pemeliharaan](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Tingkat integrasi](https://apps.yunohost.org/badge/integration/digitools)](https://ci-apps.yunohost.org/ci/apps/digitools/)
+![Status kerja](https://apps.yunohost.org/badge/state/digitools)
+![Status pemeliharaan](https://apps.yunohost.org/badge/maintained/digitools)
 
 [![Pasang Digitools dengan YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 

@@ -5,7 +5,9 @@ EZ editatu eskuz.
 
 # Digitools YunoHost-erako
 
-[![Integrazio maila](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Funtzionamendu egoera](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Mantentze egoera](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Integrazio maila](https://apps.yunohost.org/badge/integration/digitools)](https://ci-apps.yunohost.org/ci/apps/digitools/)
+![Funtzionamendu egoera](https://apps.yunohost.org/badge/state/digitools)
+![Mantentze egoera](https://apps.yunohost.org/badge/maintained/digitools)
 
 [![Instalatu Digitools YunoHost-ekin](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 

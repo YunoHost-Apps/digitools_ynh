@@ -5,7 +5,9 @@ No se debe editar a mano.
 
 # Digitools para Yunohost
 
-[![Nivel de integración](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Estado funcional](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Estado En Mantención](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Nivel de integración](https://apps.yunohost.org/badge/integration/digitools)](https://ci-apps.yunohost.org/ci/apps/digitools/)
+![Estado funcional](https://apps.yunohost.org/badge/state/digitools)
+![Estado En Mantención](https://apps.yunohost.org/badge/maintained/digitools)
 
 [![Instalar Digitools con Yunhost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
@@ -37,7 +39,7 @@ Simple and useful tools for the classroom
 
 ## Información para desarrolladores
 
-Por favor enviar sus correcciones a la [`branch testing`](https://github.com/YunoHost-Apps/digitools_ynh/tree/testing
+Por favor enviar sus correcciones a la [rama `testing`](https://github.com/YunoHost-Apps/digitools_ynh/tree/testing).
 
 Para probar la rama `testing`, sigue asÍ:
 

@@ -5,7 +5,9 @@
 
 # Digitools для YunoHost
 
-[![Уровень интеграции](https://dash.yunohost.org/integration/digitools.svg)](https://ci-apps.yunohost.org/ci/apps/digitools/) ![Состояние работы](https://ci-apps.yunohost.org/ci/badges/digitools.status.svg) ![Состояние сопровождения](https://ci-apps.yunohost.org/ci/badges/digitools.maintain.svg)
+[![Уровень интеграции](https://apps.yunohost.org/badge/integration/digitools)](https://ci-apps.yunohost.org/ci/apps/digitools/)
+![Состояние работы](https://apps.yunohost.org/badge/state/digitools)
+![Состояние сопровождения](https://apps.yunohost.org/badge/maintained/digitools)
 
 [![Установите Digitools с YunoHost](https://install-app.yunohost.org/install-with-yunohost.svg)](https://install-app.yunohost.org/?app=digitools)
 
