@@ -20,7 +20,7 @@ No se debe editar a mano.
 
 Simple and useful tools for the classroom
 
-**Versión actual:** 0.5.0~ynh3
+**Versión actual:** 0.5.1~ynh1
 
 **Demo:** <https://ladigitale.dev/digitools/>
 

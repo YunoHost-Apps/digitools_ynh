@@ -20,7 +20,7 @@
 
 Simple and useful tools for the classroom
 
-**Поставляемая версия:** 0.5.0~ynh3
+**Поставляемая версия:** 0.5.1~ynh1
 
 **Демо-версия:** <https://ladigitale.dev/digitools/>
 
