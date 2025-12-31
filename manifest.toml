@@ -5,7 +5,7 @@ name = "Digitools"
 description.en = "Simple and useful tools for the classroom"
 description.fr = "Des outils simples et utiles pour la classe"
 
-version = "0.5.1~ynh1"
+version = "0.5.2~ynh1"
 
 maintainers = ["Pierre-Amiel Giraud"]
 
@@ -44,8 +44,8 @@ ram.runtime = "50M"
 
 [resources]
         [resources.sources.main]
-        url = "https://codeberg.org/ladigitale/digitools/archive/0.5.1.tar.gz"
-        sha256 = "cb9a03a9b4be250ad9cd7bffaab423f0b2dc21719dc7cca8ae927b959212882d"
+        url = "https://codeberg.org/ladigitale/digitools/archive/0.5.2.tar.gz"
+        sha256 = "8735e773ea130238dd1a51bb8437442583a98d3f482e62d88a512155da2e1874"
         autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
