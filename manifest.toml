@@ -45,7 +45,7 @@ ram.runtime = "50M"
 [resources]
         [resources.sources.main]
         url = "https://codeberg.org/ladigitale/digitools/archive/0.5.4.tar.gz"
-        sha256 = "2d5b187e5cd1cfa60f92ca0868d1fac9b2cbe1f4a2994e524a33138f765676b1"
+        sha256 = "16b2073cda5779100041ff3ca15a38bf02cabeab216043dc78fa24f8684325e2"
         autoupdate.strategy = "latest_forgejo_release"
 
     [resources.system_user]
